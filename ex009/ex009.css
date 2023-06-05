@@ -1,0 +1,36 @@
+body{
+    background-color: palevioletred;
+}
+h1{
+    text-align: center;
+
+
+}
+.bord{
+   text-align: center;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 600px;
+    background-color: white;
+    
+}
+.felz{
+    color: green;
+}
+.nao{
+    color: red;
+}
+.img{
+    width: 235px;
+    height: 160px;
+}
+button{
+    border-radius: 10px;
+    border: 2px solid hotpink;
+    background-color: white;
+
+}
+button:hover{
+    background-color:cornflowerblue;
+}

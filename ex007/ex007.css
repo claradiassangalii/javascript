@@ -1,0 +1,30 @@
+body{
+  background-color: pink;
+}
+header{
+  text-align: center;
+}
+h1{
+    color: white;
+}
+.geral{
+   text-align: center;
+    background-color: white;
+    border-radius: 10px ;
+    border: 2px solid salmon;
+    width: 628px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.t1{
+    background-color: palevioletred;
+}
+.p{
+    font-size: xx-large;
+}
+button{
+    border-radius: 10px;
+    border: 1px solid salmon;
+}

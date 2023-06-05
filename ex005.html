@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Trabalhando com Números</h1>
+    <input type="text" placeholder="digite o numero">
+    <br><br><br>
+    <button onclick="calcular()"> clique para calcular </button>
+    <button onclick="limpar()"> clique para limpar </button>
+    <p id="resultados"></p>
+
+    <script>
+        function calcular(){
+            var dobro = (n1) * (2)
+            var soma = Number(n1) * Number(2)
+
+            var soma = document.getElementById("resultados").innerHTML +=
+            `<br> O dobro de ${n1} é = ${soma}`
+        }
+    </script>
+</body>
+</html>

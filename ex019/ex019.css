@@ -1,0 +1,17 @@
+body{
+    background-color: palevioletred;
+}
+h1{
+    text-align: center;
+
+
+}
+.tip{
+   text-align: center;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 600px;
+    background-color: white;
+    
+}
